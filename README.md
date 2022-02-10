@@ -41,3 +41,12 @@ A StackOverflow discussion and a Kite post helped me achieving that. Links:
 <https://stackoverflow.com/questions/55719762/how-to-calculate-mode-over-two-columns-in-a-python-dataframe>
 
 For the other functions, I reviewed my notes from the classes.
+
+Aside from Pandas and Numpys, the Udacity reviewer kindly recommended I use 
+Tabulate to better display raw user data. Afterwards, I had the idea to
+search how to create a requirements.txt using conda. These are the 
+references I used:
+
+<https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>
+
+<https://www.codegrepper.com/code-examples/python/conda+create+requirements.txt>
