@@ -24,7 +24,9 @@ iii. ask whether they want to see raw data displayed (5 lines at a time);
 iv. ask whether they want to start again or exit. 
 
 ### Files used
-Include the files used
+data/chicago.csv
+data/new_york_city.csv
+data/washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
