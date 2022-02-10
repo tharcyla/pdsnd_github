@@ -29,5 +29,15 @@ data/new_york_city.csv
 data/washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I used the Pandas documentation page <https://pandas.pydata.org/docs/index.html> a lot,
+especially on how to handle the to_datetime function 
+<https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html>
+and extract the month and day of the week using the dt.month_name() and dt.day_name() methods.
 
+I decided to allow the user to filter the DataFrame by both the month and day, but I ran into some errors while trying to get the mode() over those two columns.
+A StackOverflow discussion and a Kite post helped me achieving that. Links:
+<https://www.kite.com/python/answers/how-to-filter-a-pandas-dataframe-by-multiple-columns-in-python>
+
+<https://stackoverflow.com/questions/55719762/how-to-calculate-mode-over-two-columns-in-a-python-dataframe>
+
+For the other functions, I reviewed my notes from the classes.
