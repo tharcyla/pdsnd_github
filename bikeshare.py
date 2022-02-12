@@ -3,9 +3,9 @@ import pandas as pd
 import numpy as np
 from tabulate import tabulate
 
-CITY_DATA = { 'Chicago': 'chicago.csv',
-              'New York': 'new_york_city.csv',
-              'Washington': 'washington.csv' }
+CITY_DATA = { 'Chicago': 'data/chicago.csv',
+              'New York': 'data/new_york_city.csv',
+              'Washington': 'data/washington.csv' }
 
 def get_filters():
     """
